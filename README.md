@@ -1,49 +1,56 @@
 <h1 align="center">Hi 👋, I'm Rahul Rajput</h1>
 
-<h3 align="center">🚀 Full Stack Developer | ML Enthusiast | Lifelong Learner</h3>
+<h3 align="center">📊 Data Science Enthusiast | ML Explorer | Future Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=08F7FE&center=true&vCenter=true&width=800&lines=Web+%26+App+Developer+(MERN%2BFlutter);Machine+Learning+%7C+Data+Science+Explorer;Coding+%7C+Debugging+%7C+Building;Let's+learn%2C+code%2C+and+grow+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=08F7FE&center=true&vCenter=true&width=800&lines=Data+Science+%7C+ML+%7C+Python+Lover;Currently+Learning+Web+Development+(MERN);Analytics+%7C+Visualization+%7C+Insights;Let's+learn%2C+code%2C+and+solve+real+problems!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🔥 About Me
 - 🎓 CSE Undergrad | 3rd Year Student  
-- 💻 Full Stack Web Developer (HTML, CSS, JS, React, Node.js)  
-- 📊 Data Science & Machine Learning Learner  
-- 🎯 DSA Enthusiast | Problem Solver  
-- 🌱 Currently exploring AI tools & Cloud platforms  
-- 🧠 Fun fact: I love solving bugs at 2AM like Sherlock 🕵️‍♂️  
+- 📊 Passionate about **Data Science, Machine Learning**, and turning data into insight  
+- 🧠 Skilled in **Python, Pandas, NumPy, Scikit-Learn, Jupyter, Excel, Power BI**  
+- 💡 Keen interest in **AI, ML algorithms, and model deployment**  
+- 🌱 Currently learning **Full Stack Web Development** (HTML, CSS, JS, React, Node.js)  
+- 🧩 Loves solving data-driven problems and debugging analytical models  
+- 🕵️‍♂️ Fun fact: I prefer Jupyter notebooks over diaries 😄  
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 Skills & Tech Stack
 
 <details>
-<summary>🧰 <strong>Languages, Frameworks & Tools</strong></summary>
+<summary>📈 <strong>Data Science & Machine Learning</strong></summary>
 
-**🖥️ Frontend**  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Scikit-Learn, Jupyter Notebook
+- Data Cleaning, Data Visualization
+- Supervised & Unsupervised ML
+- Excel, Power BI
+
+</details>
+
+<details>
+<summary>💻 <strong>Web Development (Learning)</strong></summary>
+
+**Frontend**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
-**🛠️ Backend**  
+**Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-000000?logo=c&logoColor=white)
 
-**🗄️ Databases**  
+**Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-**📊 Data Science & ML**  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 
 </details>
 
@@ -97,5 +104,5 @@
 
 ### 🌟 Thanks for visiting my profile!
 
-> **_“Push yourself, because no one else is going to do it for you.”_** 🚀  
-Happy coding, keep building amazing things! ✨
+> **_“Without data, you're just another person with an opinion.”_ — W. Edwards Deming**  
+Keep analyzing, keep predicting, and keep pushing forward! 📊🚀
