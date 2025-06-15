@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 𝙍𝙖𝙝𝙪𝙡 𝙋𝙖𝙩𝙝𝙖𝙣𝙞𝙖</h1>
+<h1 align="center">Hi 👋, I'm Rahul Rajput</h1>
 
 <h3 align="center">📊 Data Science Enthusiast | ML Explorer | Future Full Stack Developer</h3>
 
@@ -67,6 +67,14 @@
 ---
 
 
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rahulpathania&theme=radical&row=1&margin-w=10&no-frame=true" />
+</p>
+
+---
 
 ### 📈 Visitor Counter
 
