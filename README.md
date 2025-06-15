@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Rajput</h1>
+<h1 align="center">Hi 👋, I'm 𝙍𝙖𝙝𝙪𝙡 𝙋𝙖𝙩𝙝𝙖𝙣𝙞𝙖</h1>
 
 <h3 align="center">📊 Data Science Enthusiast | ML Explorer | Future Full Stack Developer</h3>
 
